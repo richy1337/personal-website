@@ -8,7 +8,7 @@ function App() {
         <div className="min-h-screen bg-gray-900 text-white p-9">
             <div className="max-w-2xl mx-auto">
                 <div className="p-5">
-                    <div className="flex justify-between items-start border border-gray-700 rounded-lg p-9 ">
+                    <div className="flex justify-between items-start border border-gray-700 rounded-lg p-9 animate-fadeInLeftToRight">
                         {/* Left Section */}
                         <div className="flex flex-col justify-center">
                             <div className="text-2xl font-semibold">
